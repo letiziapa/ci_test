@@ -1,5 +1,6 @@
 """
 basic math library.
+hello
 """
 
 
@@ -29,3 +30,9 @@ def divide(a, b):
     divide a by b
     """
     return a/b
+
+def exponentiate(a, b):
+    """
+    calculate a to the power of b
+    """
+    return a**b
